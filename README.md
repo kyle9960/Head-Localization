@@ -1,6 +1,6 @@
 # Head-Localization
 
-Training five different size of models with or without pretrained weights(trained on COCO Dataset) by official YOLOv5 network(https://github.com/ultralytics/yolov5).
+Training five different size of models with or without pretrained weights(trained on COCO Dataset) by official YOLOv5 network with train.ipynb in Googlecolab.
 
 During training the model, we need to change the data.yaml to let the YOLOv5 use our dataset.
 
